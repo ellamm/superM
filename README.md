@@ -66,9 +66,6 @@ SuperMarket is a fully functional e-commerce web application that simulates a mo
 - **Prettier** - Code formatting
 - **Responsive Design** - Mobile-first approach
 
-
-⭐ **If you found this project helpful, please give it a star!**
-
 ---
 
 *This project is part of my frontend development portfolio, showcasing modern web development practices and responsive design principles.*
