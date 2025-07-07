@@ -2,6 +2,8 @@
 
 A modern, responsive supermarket e-commerce application showcasing frontend development skills and best practices.
 
+The website was build during *(https://react-tutorial.app/ course*.
+
 🔗 **Live Demo:** [https://supermarket-mm.netlify.app/](https://supermarket-mm.netlify.app/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/44974586-8ec9-4618-a841-e2b42d5a23d7/deploy-status)](https://app.netlify.com/projects/supermarket-mm/deploys)
